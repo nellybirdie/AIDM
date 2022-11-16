@@ -1,0 +1,28 @@
+Version date: ,,11/10/2022,,,,,,,,,,
+Provisional data analysis on COVID-19 reported death cases (from 31 Dec 2021 up till ,,11/9/2022,00:00),,,,,,,,,
+,,,,,,,,,,,,
+Case Fatality Rate by Age Group and Vaccination Status [Provisional data],,,,,,,,,,,,
+"Vaccination Status 
+(reached 14 days as at case report date)",Age Group,,,,,,,,,,,Grand Total
+,<3,3 to 11,12 to 19,20 to 29,30 to 39,40 to 49,50 to 59,60 to 69,70 to 79,80+,Pending,
+Grand total,0.0001,0.0001,0.0001,0.0001,0.0001,0.0002,0.0009,0.0031,0.0126,0.0806,0.0003,0.0054
+Unvaccinated#,0.0001,0.0001,0.0003,0.0003,0.0004,0.0016,0.0068,0.0175,0.0461,0.1478,N/A,0.0234
+1 Dose - Overall,0,0.0001,0.0001,0.0001,0.0002,0.0003,0.0019,0.0051,0.0152,0.0715,N/A,0.0101
+1 Dose - CoronaVac,0,0.0001,0,0.0003,0.0003,0.0006,0.0023,0.0053,0.0162,0.0729,N/A,0.0145
+1 Dose - Comirnaty,0,0,0.0001,0,0.0002,0,0.001,0.0043,0.0101,0.0569,N/A,0.0025
+1 Dose - Others,0,0,0,0,0,0,0,0,0,N/A,N/A,0
+2 Doses - Overall,0,0,0,0.0001,0,0.0002,0.0006,0.0016,0.0061,0.0375,N/A,0.0018
+2 Doses - CoronaVac ,0,0,0,0.0002,0,0.0001,0.0008,0.0018,0.0071,0.0419,N/A,0.0036
+2 Doses - Comirnaty,0,0,0,0.0001,0,0.0002,0.0005,0.0012,0.004,0.0208,N/A,0.0006
+2 Doses - Other vaccine combination,0,0,0,0,0,0,0,0,0,0.0213,N/A,0.0005
+3 Doses - Overall,0,0,0,0,0,0.0001,0.0001,0.0005,0.0019,0.0155,N/A,0.0006
+3 Doses - CoronaVac ,0,0,0.0002,0,0.0001,0.0001,0.0002,0.0005,0.0024,0.0176,N/A,0.0013
+3 Doses - Comirnaty,0,0,0,0,0,0.0001,0.0001,0.0004,0.0012,0.0101,N/A,0.0002
+3 Doses - Other vaccine combination,0,0,0,0,0.0001,0.0001,0.0001,0.0006,0.0009,0.0096,N/A,0.0003
+4 Doses - Overall,0,0,0,0,0,0,0.0002,0.0001,0.0003,0.0065,N/A,0.0006
+4 Doses - CoronaVac ,0,0,0,0,0,0,0,0,0,0.007,N/A,0.0007
+4 Doses - Comirnaty,0,0,0,0,0,0,0.0007,0,0,0.0047,N/A,0.0003
+4 Doses - Other vaccine combination,0,0,0,0,0,0,0,0.0004,0.0015,0.0067,N/A,0.0007
+,,,,,,,,,,,,
+# Including those that have received 1 dose but not yet reached 14 days,,,,,,,,,,,,
+N/A = Not applicable,,,,,,,,,,,,
