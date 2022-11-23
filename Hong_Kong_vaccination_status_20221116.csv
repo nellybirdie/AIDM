@@ -1,0 +1,18 @@
+Record,Vaccination Status (reached 14 days),0 to 3,3 to 11,12 to 19,20 to 29,30 to 39,40 to 49,50 to 59,60 to 69,70 to 79,80
+Vaccination status,Overall vaccination - Rate (%),20.26,87.6,100,99.58,1,1,0.9744,0.8228,0.8333,0.7166
+Vaccination_status,1 Dose - Rate (%),5.95,11.16,2.62,1.44,1.33,0.83,0.75,1,1.42,2.76
+Vaccination_status,2 Doses - Rate (%),9.85,46.01,23.41,21.35,17.87,12.75,10.06,9.23,9.24,11.06
+Vaccination_status,3 Doses - Rate (%),0.09,31.24,77.23,79.82,80.36,83.14,78.11,65.07,58.12,48.53
+Vaccination_status,4 Doses - Rate (%),0,0.01,0.54,2.3,3.57,5.87,9.93,15.05,15.31,9.42
+Reported cases,Grand total rate (%),20.39,24.88,21.5,29.13,29.64,27.7,26.16,25.14,23.2,23.1
+Reported cases,Unvaccinated - Rate (%),19.5,12.67,2.25,3.42,3.43,2.22,1.98,2.72,3.98,8.73
+Reported cases,1 Dose - Rate (%),0.65,3.42,3.23,1.49,1.66,1.25,1.36,2.15,2.96,3.8
+Reported cases,2 Doses - Rate (%),0.24,7.16,9.33,14.43,13,10.88,10.44,9.37,7.4,5.51
+Reported cases,3 Doses - Rate (%),0.01,1.62,6.68,9.72,11.41,13.05,11.92,9.72,7.61,4.45
+Reported cases,4 Doses - Rate (%),0,0,0,0.001,0.001,0.003,0.004,0.012,0.013,0.006
+Fatality,Grand total rate (%),0.01,0.01,0.01,0.01,0.01,0.02,0.09,0.31,1.24,7.97
+Fatality,Unvaccinated - Rate (%),0.01,0.01,0.03,0.03,0.04,0.16,0.68,1.73,4.59,14.76
+Fatality,1 Dose - Rate (%),0,0.01,0.01,0.01,0.02,0.03,0.19,0.5,1.52,7.15
+Fatality,2 Doses - Rate (%),0,0,0,0.01,0,0.02,0.06,0.16,0.61,3.75
+Fatality,3 Doses - Rate (%),0,0,0,0,0,0.01,0.01,0.05,0.2,1.58
+Fatality,4 Doses - Rate (%),0,0,0,0,0,0,0.02,0.01,0.04,0.71
