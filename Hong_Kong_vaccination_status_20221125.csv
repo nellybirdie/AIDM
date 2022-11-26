@@ -1,0 +1,21 @@
+Record,Vaccination Status,0 to 3,3 to 11,12 to 19,20 to 29,30 to 39,40 to 49,50 to 59,60 to 69,70 to 79,80
+Number of vaccination ,Population ever vaccinated,19638,444381,464288,809854,1128700,1190269,1177503,1013701,497243,285776
+Number of unvaccination ,Unvaccinated,24101,63694,10073,26375,37587,25814,23641,30512,23508,34763
+Vaccination rate,Grand total,44.90,87.46,97.88,96.85,96.78,97.88,98.03,97.08,95.49,89.15
+Vaccination rate,Unvaccinated,55.10,12.54,2.12,3.15,3.22,2.12,1.97,2.92,4.51,10.85
+Vaccination rate,1 Dose,5.95,11.16,2.62,1.44,1.33,0.83,0.75,1,1.42,2.76
+Vaccination rate,2 Doses,9.85,46.01,23.41,21.35,17.87,12.75,10.06,9.23,9.24,11.06
+Vaccination rate,3 Doses,0.09,31.24,77.23,79.82,80.36,83.14,78.11,65.07,58.12,48.53
+Vaccination rate,4 Doses,0,0.01,0.54,2.3,3.57,5.87,9.93,15.05,15.31,9.42
+Rate of reported cases,Grand total,20.39,24.88,21.5,29.13,29.64,27.7,26.16,25.14,23.2,23.1
+Rate of reported cases,Unvaccinated,19.5,12.67,2.25,3.42,3.43,2.22,1.98,2.72,3.98,8.73
+Rate of reported cases,1 Dose,0.65,3.42,3.23,1.49,1.66,1.25,1.36,2.15,2.96,3.8
+Rate of reported cases,2 Doses,0.24,7.16,9.33,14.43,13,10.88,10.44,9.37,7.4,5.51
+Rate of reported cases,3 Doses,0.01,1.62,6.68,9.72,11.41,13.05,11.92,9.72,7.61,4.45
+Rate of reported cases,4 Doses,0,0,0,0.001,0.001,0.003,0.004,0.012,0.013,0.006
+Rate of fatality,Grand total,0.01,0.01,0.01,0.01,0.01,0.02,0.09,0.31,1.24,7.97
+Rate of fatality,Unvaccinated,0.01,0.01,0.03,0.03,0.04,0.16,0.68,1.73,4.59,14.76
+Rate of fatality,1 Dose,0,0.01,0.01,0.01,0.02,0.03,0.19,0.5,1.52,7.15
+Rate of fatality,2 Doses,0,0,0,0.01,0,0.02,0.06,0.16,0.61,3.75
+Rate of fatality,3 Doses,0,0,0,0,0,0.01,0.01,0.05,0.2,1.58
+Rate of fatality,4 Doses,0,0,0,0,0,0,0.02,0.01,0.04,0.71
