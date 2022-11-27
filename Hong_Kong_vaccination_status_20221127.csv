@@ -14,6 +14,7 @@ Rate of reported cases,1 Dose,3.17,13.77,15.03,5.12,5.61,4.53,5.20,8.57,12.75,16
 Rate of reported cases,2 Doses,1.17,28.79,43.40,49.55,43.84,39.29,39.92,37.27,31.87,23.85
 Rate of reported cases,3 Doses,0.04,6.51,31.05,33.36,38.48,47.11,45.57,38.65,32.81,19.28
 Rate of reported cases,4 Doses,0.00,0.00,0.04,0.25,0.48,1.05,1.71,4.70,5.43,2.62
+Rate of fatality,Number of deaths in 1000 population,0.02,0.01,0.01,0.02,0.03,0.06,0.24,0.78,2.88,18.41
 Rate of fatality,Overall population,0.01,0.01,0.01,0.01,0.01,0.02,0.09,0.31,1.24,7.97
 Rate of fatality,Unvaccinated,0.01,0.01,0.03,0.03,0.04,0.16,0.68,1.73,4.59,14.76
 Rate of fatality,1 Dose,0,0.01,0.01,0.01,0.02,0.03,0.19,0.5,1.52,7.15
