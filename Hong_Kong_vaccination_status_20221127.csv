@@ -1,0 +1,21 @@
+Record,Vaccination Status,0 to 3,3 to 11,12 to 19,20 to 29,30 to 39,40 to 49,50 to 59,60 to 69,70 to 79,80
+End-2021 resident population,Total population,123600,502600,447300,771900,1094500,1160300,1191300,1122100,591300,398200
+Number of vaccination ,Population ever vaccinated,19638,444381,464288,809854,1128700,1190269,1177503,1013701,497243,285776
+Vaccination rate,Unvaccinated,84.11,11.58,3.80,4.92,3.22,2.12,1.97,2.92,4.51,10.85
+Vaccination rate,Grand total,95.71,82.18,88.24,93.85,95.52,97.04,95.63,90.94,90.56,95.74
+Vaccination rate,1 Dose,5.95,11.16,2.62,1.44,1.33,0.83,0.75,1,1.42,2.76
+Vaccination rate,2 Doses,9.85,46.01,23.41,21.35,17.87,12.75,10.06,9.23,9.24,11.06
+Vaccination rate,3 Doses,0.09,31.24,77.23,79.82,80.36,83.14,78.11,65.07,58.12,48.53
+Vaccination rate,4 Doses,0,0.01,0.54,2.3,3.57,5.87,9.93,15.05,15.31,9.42
+Rate of reported cases,Unvaccinated,95.62,50.93,10.47,11.73,11.59,8.03,7.59,10.82,17.13,37.79
+Rate of reported cases,Vaccinated Total,4.38,49.07,89.53,88.27,88.41,91.97,92.41,89.18,82.87,62.71
+Rate of reported cases,1 Dose,3.17,13.77,15.03,5.12,5.61,4.53,5.20,8.57,12.75,16.46
+Rate of reported cases,2 Doses,1.17,28.79,43.40,49.55,43.84,39.29,39.92,37.27,31.87,23.85
+Rate of reported cases,3 Doses,0.04,6.51,31.05,33.36,38.48,47.11,45.57,38.65,32.81,19.28
+Rate of reported cases,4 Doses,0.00,0.00,0.04,0.25,0.48,1.05,1.71,4.70,5.43,2.62
+Rate of fatality,Overall population,0.01,0.01,0.01,0.01,0.01,0.02,0.09,0.31,1.24,7.97
+Rate of fatality,Unvaccinated,0.01,0.01,0.03,0.03,0.04,0.16,0.68,1.73,4.59,14.76
+Rate of fatality,1 Dose,0,0.01,0.01,0.01,0.02,0.03,0.19,0.5,1.52,7.15
+Rate of fatality,2 Doses,0,0,0,0.01,0,0.02,0.06,0.16,0.61,3.75
+Rate of fatality,3 Doses,0,0,0,0,0,0.01,0.01,0.05,0.2,1.58
+Rate of fatality,4 Doses,0,0,0,0,0,0,0.02,0.01,0.04,0.71
